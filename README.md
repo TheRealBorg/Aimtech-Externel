@@ -21,7 +21,8 @@
 * bunnyhop
 * Glow enemies when planting or defusing
 * cl_render health on enemies
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![cl_render.png](https://raw.githubusercontent.com/Jadmakdissi/Aimtech-Externel/main/cl_render.png)
+
 
 
 
