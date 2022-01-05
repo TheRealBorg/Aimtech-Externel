@@ -17,8 +17,8 @@
 
 # Features
 
-* Triggerbot
-* bunnyhop
+* Triggerbot "left alt key"
+* bunnyhop "mouse4"
 * Glow enemies when planting or defusing
 * cl_render health on enemies
 ![cl_render.png](https://raw.githubusercontent.com/Jadmakdissi/Aimtech-Externel/main/cl_render.png)
